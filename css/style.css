@@ -32,7 +32,7 @@ img{
 }
 
 .header{
-    background: linear-gradient(180deg, var(--color1),rgb(255, 255, 255)),url(/img/img4.jpg);
+    background: linear-gradient(180deg, var(--color1),rgb(255, 255, 255)),url(../img/img4.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
