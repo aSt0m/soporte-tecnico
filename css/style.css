@@ -203,6 +203,7 @@ img{
 .card-article{
     background: linear-gradient(180deg, var(--color1),var(--color4),0.5);
     clip-path: circle(30%);
+    -webkit-clip-path: circle(30%)
 }
 .text-article{
     color: #fff;
@@ -221,4 +222,5 @@ img{
 }
 .iconos{
     width: 3rem;
+    height: 3rem;
 }
